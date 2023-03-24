@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack Web development course**
 
-- 👯 I’m looking to collaborate on **Soundify- a music streaming platform**
+- 👯 I’m looking to collaborate on [Soundify- a music streaming platform](https://www.instagram.com/soundifyindia/)
 
 - 🤝 I’m looking for help with **(Soundify) developing stage'**
 
