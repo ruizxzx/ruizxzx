@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruizxzx?tab=repositories)
 
-- 📫 How to reach me **krishsarkar456@gmai.,com**
+- 📫 How to reach me **krishsarkar456@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
