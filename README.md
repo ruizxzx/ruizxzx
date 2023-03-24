@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **(Soundify) developing stage'**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruizxzx](https://github.com/ruizxzx)
+- 👨‍💻 All of my projects are available at [https://github.com/ruizxzx?tab=repositories)
 
 - 📫 How to reach me **krishsarkar456@gmai.,com**
 
