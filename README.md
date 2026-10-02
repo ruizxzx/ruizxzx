@@ -167,7 +167,7 @@ That combination is far more interesting to me than simply connecting an LLM to 
 
 <div align="center">
 
-[![Orbit](https://github-readme-stats.vercel.app/api/pin/?username=ruizxzx\&repo=ai-clippy\&hide_border=true)](https://github.com/ruizxzx/Clippy)
+[![Orbit](https://github.com/ruizxzx/Clippy/blob/main/README.md)](https://github.com/ruizxzx/Clippy)
 
 [![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=ruizxzx\&repo=ruizxzx\&hide_border=true)](https://github.com/ruizxzx)
 
