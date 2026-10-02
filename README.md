@@ -1,35 +1,194 @@
-<h1 align="center">Hi 👋, I'm Krish Sarkar</h1>
-<h3 align="center">I'm a web designer / developer based in Kolkata, India. I have a passion for web developing and designing and love to create for web and mobile devices.</h3>
+# Hi, I'm Krish Sarkar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruizxzx&label=Profile%20views&color=0e75b6&style=flat" alt="ruizxzx" /> </p>
+### `CSE (AI/ML) Student` · `Full-Stack Developer` · `AI Builder`
 
-<p align="left"> <a href="https://twitter.com/keiruiz5" target="blank"><img src="https://img.shields.io/twitter/follow/keiruiz5?logo=twitter&style=for-the-badge" alt="keiruiz5" /></a> </p>
+I build software that tries to solve **real problems**, from intelligent desktop automation to modern web products.
 
-- 🔭 I’m currently a high school student [CapyMeet- Dating site landing page](http://bit.ly/CapyMeet)
+Currently exploring **AI agents, local AI, automation systems, full-stack development, and developer tools**.
 
-- 🌱 I’m currently learning **Full stack Web development course**
+---
 
-- 💕 I love to code with **ReactJS**
+<div align="center">
 
-- 👯 I’m looking to collaborate on [Soundify- a music streaming platform](https://www.instagram.com/soundifyindia/)
+[![GitHub](https://img.shields.io/badge/GitHub-ruizxzx-181717?style=for-the-badge\&logo=github)](https://github.com/ruizxzx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel)](https://example.com)
 
-- 🤝 I’m looking for help with **(Soundify) developing stage'**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruizxzx?tab=repositories)
+---
 
-- 📫 How to reach me **krishsarkar456@gmai.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/keiruiz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keiruiz5" height="30" width="40" /></a>
-<a href="https://instagram.com/ruizxzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruizxzx" height="30" width="40" /></a>
-<a href="https://dribbble.com/ruizxzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ruizxzx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ruizxzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruizxzx" height="30" width="40" /></a>
-</p>
+```text
+🎓 B.Tech CSE (AI/ML)
+💻 Full-Stack & AI Developer
+🧠 Interested in intelligent automation
+⚙️ Building tools that combine deterministic systems + AI
+🌐 Exploring SaaS, developer tools & AI products
+📍 India
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I enjoy going beyond simply making something work.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruizxzx&show_icons=true&locale=en&layout=compact" alt="ruizxzx" /></p>
+My focus is on building systems that are:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruizxzx&show_icons=true&locale=en" alt="ruizxzx" /></p>
+**Reliable → Intelligent → Fast → Maintainable**
+
+---
+
+## 🚀 What I'm Building
+
+### Orbit
+
+> An AI-powered desktop automation system designed to understand natural-language commands and execute them reliably.
+
+Working on:
+
+* Semantic UI interaction
+* Deterministic task execution
+* Vision-assisted automation
+* Task planning and verification
+* Local AI inference
+* Browser and Windows automation
+* Safety gates and recovery mechanisms
+
+### Instaly
+
+> A creator-focused platform combining link-in-bio pages, storefronts and digital products.
+
+### TABLELY
+
+> A restaurant ordering and operations platform focused on QR-based ordering, sessions, orders, payments and branch management.
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Web
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### AI / Automation
+
+![Python](https://img.shields.io/badge/Python_AI-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+
+### Backend / Infrastructure
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+
+---
+
+## 🔧 Areas I'm Interested In
+
+```text
+Artificial Intelligence
+├── AI Agents
+├── Local LLMs
+├── Computer Vision
+├── Intelligent Automation
+└── Task Planning
+
+Software Engineering
+├── Full-Stack Development
+├── Developer Tools
+├── SaaS Architecture
+├── Backend Systems
+└── Distributed Applications
+
+Automation
+├── Browser Automation
+├── Desktop Automation
+├── UI Understanding
+├── Task Verification
+└── Reliable Execution
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruizxzx&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizxzx&layout=compact&hide_border=true" height="170">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ruizxzx&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🛠️ Currently Exploring
+
+* AI agent architectures
+* Local-first AI applications
+* Computer-use systems
+* Vision + UI understanding
+* Reliable browser automation
+* Next.js application architecture
+* Supabase-powered backends
+* Better developer tooling
+
+---
+
+## 🎯 My Approach
+
+> **Don't just automate the clicks. Understand the task.**
+
+I'm particularly interested in systems where AI handles the **ambiguity and reasoning**, while deterministic software handles the **execution, validation, and safety**.
+
+That combination is far more interesting to me than simply connecting an LLM to a button.
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Orbit](https://github-readme-stats.vercel.app/api/pin/?username=ruizxzx\&repo=ai-clippy\&hide_border=true)](https://github.com/ruizxzx/ai-clippy)
+
+[![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=ruizxzx\&repo=ruizxzx\&hide_border=true)](https://github.com/ruizxzx)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+```text
+Build → Break → Understand → Improve → Repeat
+```
+
+I prefer learning by building systems, finding their failure points, and redesigning them until the architecture survives real-world use.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<img src="https://komarev.com/ghpvc/?username=ruizxzx&style=flat-square&color=blue" alt="Profile views">
+
+</div>
